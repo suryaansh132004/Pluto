@@ -1,10 +1,3 @@
-Pluto is a Python-based virtual assistant that leverages speech recognition, text-to-speech, and Google Generative AI to perform various tasks.
-It can:-
-
-    Open websites: Navigate to popular websites like Google, Instagram, LinkedIn, YouTube, and WhatsApp.
-    Provide information: Fetch and read news headlines, announce the current weather, time, and date.
-    Interact with AI: Use Google Generative AI to generate responses to your questions and requests.
-
 Requirements:-
 
     Python 3.x
